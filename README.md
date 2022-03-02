@@ -9,12 +9,8 @@ Run Project Locally: `yarn dev` or `yarn start`
 ## Features
 
 - Expo SDK 43
-- iOS, Android and PWA (Web App)
+- iOS, Android
 - PropTypes
-
-## Expo Web
-
-Currently Expo Web support is **not production ready**, but if you want to see how this project looks on the web as a PWA (Progressive Web App)... using [react-native-web](https://github.com/necolas/react-native-web) and react-dom.
 
 **Dev with Expo Web**
 - Remove node_modules if they exist: `rm -rf nodes_modules`
