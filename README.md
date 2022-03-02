@@ -16,8 +16,6 @@ Run Project Locally: `yarn dev` or `yarn start`
 
 Currently Expo Web support is **not production ready**, but if you want to see how this project looks on the web as a PWA (Progressive Web App)... using [react-native-web](https://github.com/necolas/react-native-web) and react-dom.
 
-[PWA: Expo Spotify](https://expo-spotify.calebnance.now.sh) looks best on a mobile device, but not bad on desktop!
-
 **Dev with Expo Web**
 - Remove node_modules if they exist: `rm -rf nodes_modules`
 - Install/Re-install: `yarn`
